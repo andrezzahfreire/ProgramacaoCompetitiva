@@ -4,7 +4,7 @@ using namespace std; //
 
 int main(){ // funcao principal
   cout << "Hello World!";  // cout == seeout objeto, << recebe
-  return 0; // final da função
+  return 0; // final da funï¿½ï¿½o
 }
  */
 
@@ -23,15 +23,15 @@ using namespace std;
 int main (){
 
  cout << "Hello World!\n"; // quebra de linha /n
- cout << "I am learning c++" << endl; // /t dá um tab
+ cout << "I am learning c++" << endl; // /t dï¿½ um tab
  return 0;
 }
 */
 
-# include <iostream>
+#include <iostream>
 using namespace std;
 int main (){
-    // declaração de variáveis
+    // declaraï¿½ï¿½o de variï¿½veis
     int myNum = 2;
     double myDouble = 2.1;
     char myChar = 'o';
