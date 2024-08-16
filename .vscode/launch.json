@@ -3,5 +3,20 @@
     // Hover to view descriptions of existing attributes.
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
-    "configurations": []
+    "configurations": [
+        {
+            "type": "java",
+            "name": "b1019",
+            "request": "launch",
+            "mainClass": "beecrownd.b1019",
+            "projectName": "programacaoCompetitiva_b4c51c82"
+        },
+        {
+            "type": "java",
+            "name": "b1018",
+            "request": "launch",
+            "mainClass": "beecrownd.b1018",
+            "projectName": "programacaoCompetitiva_b4c51c82"
+        }
+    ]
 }
